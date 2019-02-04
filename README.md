@@ -52,6 +52,8 @@ Wow !
 - login : sgzurich2019
 - password : will be given in time
 
+TODO : Notebook on email connection + load data
+
 
 ## MarketData
 ### Install [pandas_datareader](https://pandas-datareader.readthedocs.io/en/latest/index.html) :
