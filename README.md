@@ -13,4 +13,4 @@ A `Anaconda` folder should be created, either in the start menur (Windows) or th
 
 
 If not found: please type "Jupyter" right after opening the Windows start menu / or in MacOS finder:
-![Looking for Jupyter Image](./Looking\ for\ Jupyter.png)
+![Looking for Jupyter Image](Looking_for_Jupyter.png)
