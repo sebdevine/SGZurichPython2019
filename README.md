@@ -43,5 +43,3 @@ Nice ! Now try some coding, type :
 And hit `Shift` + `Enter` to execute.
 
 Wow !
-
-![hi5](https://pixabay.com/fr/gens-de-bâton-high-five-2324013/)
