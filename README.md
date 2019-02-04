@@ -10,7 +10,7 @@ Please visit [Anaconda](https://www.anaconda.com/distribution/)
 - Follow the steps (not need to change the defaults) and install
 
 A `Anaconda` folder should be created, either in the start menur (Windows) or the app launcher (MacOS). In that folder you should see a **Jupyter Notebook** application with the following icon :
-
+![JupyterLogo](250px-Jupyter_logo.svg.png)
 
 If not found: please type "Jupyter" right after opening the Windows start menu / or in MacOS finder:
 ![Looking for Jupyter Image](Looking_for_Jupyter.png)
