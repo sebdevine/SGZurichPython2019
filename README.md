@@ -64,5 +64,7 @@ pip install alpha_vantage
 pip install pandas_datareader
 ```
 ### Download and run the notebook
-[Simplified pricing notebook]()
+Open this link, then right click on `[Raw]` and select `Save As|Download As` (depends on your browser) => saves the file in your home folder where you can open it with the Jupyter file browser.
+
+[Simplified pricing notebook](https://github.com/sebdevine/SGZurichPython2019/blob/master/SGZurich2019_simplified_pricing.ipynb)
 
