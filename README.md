@@ -43,3 +43,5 @@ Nice ! Now try some coding, type :
 And hit `Shift` + `Enter` to execute.
 
 Wow !
+
+![wow](wow.png)
