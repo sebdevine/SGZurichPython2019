@@ -9,7 +9,7 @@ Extra material for SG Zurich Python courses (2019)
 - Launch the installer (.exe or .dmg)
 - Follow the steps (not need to change the defaults) and install.
 
-A `Anaconda` folder should be created, either in the start menur (Windows) or the app launcher (MacOS). In that folder you should see a **Jupyter Notebook** application with the following icon :
+A `Anaconda` folder should be created, either in the start menu (Windows) or the app launcher (MacOS). In that folder you should see a **Jupyter Notebook** application with the following icon :
 
 ![JupyterLogo](250px-Jupyter_logo.svg.png)
 
@@ -30,6 +30,17 @@ Next, create a new notebook :
 
 ![openNotebook](open_new_notebook.png)
 
-It will open a new tab in the current web browser, with the following content (here in french):
+It will open a new tab in the current web browser (and create a notebook file in your home folder), with the following content (here in french):
 
 ![NewNotebook](new_notebook.png)
+
+
+Nice ! Now try some coding, type :
+```python
+2+2
+```
+
+And hit `Shift` + `Enter` to execute.
+
+Wow !
+![hi5](hi5.png)
