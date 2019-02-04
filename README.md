@@ -56,7 +56,9 @@ TODO : Notebook on email connection + load data
 
 
 ## MarketData
-### Install [pandas_datareader](https://pandas-datareader.readthedocs.io/en/latest/index.html) :
+### Install extra packages
+We need to get our hands dirty in the terminal, like real hackers !
+
 - Open a terminal on Windows: Windows key + R, type: cmd, hit enter
 - Open a termnial on Mac: lookup in the app launcher for `terminal`
 
