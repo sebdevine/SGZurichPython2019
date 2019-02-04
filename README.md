@@ -45,3 +45,24 @@ And hit `Shift` + `Enter` to execute.
 Wow !
 
 ![wow](wow.png)
+
+## EmailAccount
+
+- Site : [GMX](https://gmx.com)
+- login : sgzurich2019
+- password : will be given in time
+
+
+## MarketData
+### Install [pandas_datareader](https://pandas-datareader.readthedocs.io/en/latest/index.html) :
+- Open a terminal on Windows: Windows key + R, type: cmd, hit enter
+- Open a termnial on Mac: lookup in the app launcher for `terminal`
+
+Type and hit enter for each line :
+```batch
+pip install alpha_vantage
+pip install pandas_datareader
+```
+### Download and run the notebook
+[Simplified pricing notebook]()
+
